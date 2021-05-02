@@ -1,3 +1,3 @@
 # SistemaDeVotacion
 
-Ejericio "Sistema de Votacion"
+Ejercicio "Sistema de Votacion"
